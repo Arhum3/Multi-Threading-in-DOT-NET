@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CancellationTokenAndTask.Delay/1.0.0": {
+        "runtime": {
+          "CancellationTokenAndTask.Delay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CancellationTokenAndTask.Delay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
