@@ -1,0 +1,16 @@
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.AssemblyReference.cache
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.CoreCompileInputs.cache
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.exe.config
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.exe
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.pdb
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.exe
+C:\Users\mirzah3\source\repos\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.pdb
+D:\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.exe.config
+D:\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.exe
+D:\MiniBPEM\MiniBPEM\bin\Debug\MiniBPEM.pdb
+D:\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.AssemblyReference.cache
+D:\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.SuggestedBindingRedirects.cache
+D:\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.csproj.CoreCompileInputs.cache
+D:\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.exe
+D:\MiniBPEM\MiniBPEM\obj\Debug\MiniBPEM.pdb
