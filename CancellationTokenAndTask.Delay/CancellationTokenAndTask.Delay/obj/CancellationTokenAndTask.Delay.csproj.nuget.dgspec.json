@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arhum\\source\\repos\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj": {}
+    "C:\\Users\\Arhum\\source\\repos\\Multi-Threading-in-DOT-NET\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arhum\\source\\repos\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj": {
+    "C:\\Users\\Arhum\\source\\repos\\Multi-Threading-in-DOT-NET\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arhum\\source\\repos\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj",
+        "projectUniqueName": "C:\\Users\\Arhum\\source\\repos\\Multi-Threading-in-DOT-NET\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj",
         "projectName": "CancellationTokenAndTask.Delay",
-        "projectPath": "C:\\Users\\Arhum\\source\\repos\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj",
+        "projectPath": "C:\\Users\\Arhum\\source\\repos\\Multi-Threading-in-DOT-NET\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay.csproj",
         "packagesPath": "C:\\Users\\Arhum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arhum\\source\\repos\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\obj\\",
+        "outputPath": "C:\\Users\\Arhum\\source\\repos\\Multi-Threading-in-DOT-NET\\CancellationTokenAndTask.Delay\\CancellationTokenAndTask.Delay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arhum\\AppData\\Roaming\\NuGet\\NuGet.Config",
